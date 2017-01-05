@@ -11,3 +11,4 @@ First tryst with a simple kafka producer and consumer
 
 # Reference
 * This is pretty much a `cmd+c` and `cmd+v` of [kafka-sandbox](https://github.com/aseigneurin/kafka-sandbox)
+* [Kafka 101](http://aseigneurin.github.io/2016/03/02/kafka-spark-avro-kafka-101.html)
